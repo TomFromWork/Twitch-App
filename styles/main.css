@@ -1,0 +1,23 @@
+.navbar {
+  background-color: #6441a5;
+}
+
+.box {
+  background-color: #815fc0;
+  padding: 50px;
+  margin-top: 75px;
+  margin-bottom: 20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.img-box {
+  height: 75px;
+  width: 75px;
+}
+
+.streamInfo {
+  height: 85px;
+  padding-left: 10px;
+}
